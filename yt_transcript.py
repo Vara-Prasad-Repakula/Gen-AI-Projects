@@ -42,7 +42,7 @@ def streamlit_config():
 def extract_languages(video_id):
 
     # Fetch the List of Available Transcripts for Given Video
-    transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+    transcript_list = YouTubeTranscriptApi.get_transcript(video_id)
 
     # Extract the Language Codes from List ---> ['en','ta']
     available_transcripts = [i.language_code for i in transcript_list]
