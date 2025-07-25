@@ -50,7 +50,7 @@ If you're in this space — whether academic, industry, or collaborative researc
 
 Feel free to explore, fork, or reach out if you find any project interesting — I'm always open to **collaboration**, **feedback**, or a good conversation about **AI in medicine**.
 
-📫 [LinkedIn]((https://www.linkedin.com/in/vara-prasad-repakula-2825b7244/))  
+📫 [LinkedIn]((https://www.linkedin.com/in/vara-prasad-repakula-2825b7244/))  https://www.linkedin.com/in/vara-prasad-repakula-2825b7244/
 
 ---
 
