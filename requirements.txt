@@ -1,7 +1,8 @@
+neo4j==5.14
+langchain
+langchain_community
+langchain_openai
+langchain_groq
 python-dotenv
 streamlit
-streamlit-extras
-youtube-transcript-api
-google-generativeai
-langcodes
-language_data
+langchain_experimental
